@@ -60,12 +60,14 @@ curl "https://openapi.imeritz.com:9443/market/v1/prices?mrkt_div_code=J&iscd=005
 
 | 저장소 | 하는 일 |
 |---|---|
-| `open-api` | 파이썬 예제 — 인증·시세·계좌·주문·실시간 |
-| `open-api-mcp` | Trading MCP — AI가 자연어로 시세·계좌·주문을 다뤄요 |
-| `open-api-codegen-mcp` | 코드 생성 MCP — 앱키 없이 호출 코드를 만들어 드려요 |
-| `open-api-studio` | 터미널에서 쓰는 `meritz` CLI 와 에이전트 스킬 |
+| [`open-api`](https://github.com/meritz-securities/open-api) | 파이썬 예제 — 인증·시세·계좌·주문·실시간 |
+| [`open-api-mcp`](https://github.com/meritz-securities/open-api-mcp) | Trading MCP — AI가 자연어로 시세·계좌·주문을 다뤄요 |
+| [`open-api-codegen-mcp`](https://github.com/meritz-securities/open-api-codegen-mcp) | 코드 생성 MCP — 앱키 없이 호출 코드를 만들어 드려요 |
+| [`open-api-studio`](https://github.com/meritz-securities/open-api-studio) | 터미널에서 쓰는 `meritz` CLI 와 에이전트 스킬 |
 
 > 공개 준비 중이에요. 순차적으로 열립니다.
+
+MCP 서버는 Claude Desktop이면 설치 파일을 내려받아 더블클릭하고, 그 밖의 AI 앱이면 실행 파일을 경로로 등록해서 쓰며, 자세한 절차는 각 저장소 README에 있어요.
 
 ## 안전하게 쓰도록
 
