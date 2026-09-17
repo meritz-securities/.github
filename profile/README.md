@@ -65,7 +65,8 @@ curl "https://openapi.imeritz.com:9443/market/v1/prices?mrkt_div_code=J&iscd=005
 | `open-api-codegen-mcp` | 코드 생성 MCP — 앱키 없이 호출 코드를 만들어 드려요 |
 | `open-api-studio` | 터미널에서 쓰는 `meritz` CLI 와 에이전트 스킬 |
 
-> 공개 준비 중이에요. 순차적으로 열립니다.
+> 메리츠증권 Open API를 공개 운영합니다. Python 예제, Trading MCP, Codegen MCP,
+> CLI와 에이전트 스킬을 제공합니다.
 
 ## 안전하게 쓰도록
 
