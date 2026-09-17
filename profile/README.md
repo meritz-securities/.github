@@ -8,6 +8,8 @@
 
 [개발자 포털](https://openapi.imeritz.com) · [API 문서](https://openapi.imeritz.com/apiservice) · [API 신청](https://openapi.imeritz.com/api-apply)
 
+**바로 설치하기:** [Trading MCP](https://github.com/meritz-securities/open-api-mcp/releases/latest) · [Codegen MCP](https://github.com/meritz-securities/open-api-codegen-mcp/releases/latest)
+
 </div>
 
 ---
