@@ -4,6 +4,8 @@
 
 # 메리츠증권 Open API
 
+**현재 베타 테스트 중입니다. 정식 공개를 준비하고 있으며 곧 찾아뵙겠습니다.**
+
 **AI로 시세·계좌·주문을 다루는 Open API**
 
 [개발자 포털](https://openapi.imeritz.com) · [API 문서](https://openapi.imeritz.com/apiservice) · [API 신청](https://openapi.imeritz.com/api-apply)
